@@ -3,8 +3,8 @@
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
 
-const char* ssid = "Mayess";
-const char* password = "825825825";
+const char* ssid = "ChangeMySSID";
+const char* password = "ChangeMyPassword";
 #define SERVO_PIN_Exit 32
 #define SERVO_PIN_Entry 26  
 #define TRIG_PIN_EXIT 14
